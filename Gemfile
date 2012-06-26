@@ -25,7 +25,7 @@ group :test do
   gem 'rspec-rails', '2.10.0'
   gem 'capybara', '1.1.2'
   gem 'rb-fsevent', '0.9.1', :require => false
-
+  gem 'factory_girl_rails', '1.4.0'
 end 
 
 group :production do
